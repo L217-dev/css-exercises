@@ -1,0 +1,12 @@
+.fancy, .borry{
+    font-size: 50px;
+    font-family: helvetica,"Times New Roman", sans-serif;
+}
+
+.fancy{
+    background-color: black;color: white;
+}
+
+.borry{
+background-color: yellow;
+}
